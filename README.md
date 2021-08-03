@@ -12,3 +12,4 @@
 ## Better recognize yo!
 
 ## Changes in August 2021
+## Even Admins can't push to master
