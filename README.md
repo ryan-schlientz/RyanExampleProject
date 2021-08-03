@@ -10,3 +10,5 @@
 
 ## All things I have are that of the great god zeus!!
 ## Better recognize yo!
+
+## Changes in August 2021
