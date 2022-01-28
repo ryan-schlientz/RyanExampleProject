@@ -18,7 +18,7 @@ public class MyServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
-        response.getWriter().append("Welcome to My Servlet!!!!!");
+        response.getWriter().append("Welcome to My Servlet!!!!!!!");
         System.out.println("Welcome to My Servlet!");
 
         ServletConfig sconf = this.getServletConfig();
